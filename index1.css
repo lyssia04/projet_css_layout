@@ -1,0 +1,211 @@
+.container {
+    max-width: 1015px;
+    padding: 0 20px;
+    margin: 0 auto;
+    position: sticky;
+
+    }
+
+.logo-doc-planner {
+    width: 268px;
+    height: 33px;
+}
+
+.main-menu {
+    position: relative;
+    float: right;
+    
+}
+
+.order {
+    display: flex;
+    flex-direction: row;
+}
+.about-us {
+    width: 100px;
+    color: #00b39b;
+    text-decoration: none;
+    font-weight: normal;
+ }
+
+.career { 
+    width: 100px;
+    color: #ababab;
+    text-decoration: none;
+    font-weight: normal;
+}
+
+.departments {
+    width: 100px;
+    color: #ababab;
+    text-decoration: none;
+    font-weight: normal;
+}
+
+.flower {
+    max-width: 1015px;
+    padding: 0 20px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.the {
+    margin:2.0625rem auto 3.75rem ;
+    
+}
+
+.dev {
+    max-width: 1015px;
+    padding: 0 20px;
+    position: relative;
+    margin: 2.0625rem auto 3.75rem ;
+}
+.flower-image {
+    
+    display: block;
+    margin: 0 auto;
+}
+.main-titel {
+    text-align: center;
+    font-size: 2.125rem;
+    color: #00b39b;
+    font-family: Roboto,Arial;
+   text-decoration: none;
+   font-weight: lighter;
+}
+ .grid {
+    margin: 0 -10px;
+    padding: 0  20px  ;
+ }
+
+ .col-1 {
+    width: 50%;
+    float: left;
+}
+
+ .col-2 {
+    width: 50%;
+    float: right;
+}
+.p1 {
+    margin: 0.8em 0;
+    line-height: 1.75;
+    font-family: Roboto,Arial,sans-serif;
+    color: #747474;
+
+     
+}
+
+.p2 {
+    margin: 0.8em 0;
+    line-height: 1.75;
+    font-family: Roboto,Arial,sans-serif;
+    color: #747474;
+
+}
+ 
+.box-1 {
+    background: #00ccb1;
+    width: 32%;
+    border-radius: 10px
+}
+ 
+.container-service {
+    padding: 80px 100px;
+    display: flex;
+    justify-content: space-between
+}
+
+.top {
+    padding: 10px 10px  ;
+}
+
+.h {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    color: aliceblue;
+}
+
+.bas {
+    position: relative;
+    background: none;
+    color: #fff;
+    font-family: Roboto,Arial,sans-serif;
+    font-weight: 400;
+    margin: 30px;
+    text-align: center;
+}
+
+.domain-switcher{
+width: 100%;
+    background: transparent;
+    border: 0;
+    border-radius: 0;
+    padding: 0 2em 0 0;
+    outline: 0;
+    text-transform: none;
+    text-decoration: underline;
+  
+}
+
+.box-2 {
+    background: #3d83df;
+    width: 32%;
+    border-radius: 10px;
+}
+
+.box-3 {
+    background: #1b2734;
+    width: 32%;
+    border-radius: 10px;
+}
+
+.domain-switcher {
+    border: none;
+    background-color: transparent;
+    color: white;
+    outline: none;
+}
+
+.marque {
+    margin: 2.5rem auto 3.125rem;
+    padding-inline-start: 100px;
+    max-width: 1015px;
+}
+
+.hh {
+    color: #00b39b; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size:x-large  ;
+}
+
+
+
+.container-1 {
+  padding:0 80px;
+  display: flex;
+  width: 100%;
+}
+
+.item-1 {
+  width:30%;
+}
+
+.item-2 {
+  
+   }
+
+
+
+.brands__logos li {
+    font-size: 1rem;
+    display: inline-block;
+    margin-top: 0;
+    padding: 5px 0 5px 5px;
+    width: 25%
+}
+
+.brands__logos {
+  align-content: space-between;
+}
